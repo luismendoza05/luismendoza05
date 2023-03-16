@@ -1,22 +1,13 @@
-## Hi there 👋 I'm Luis!
+## Hola a todos! 👋 Soy Luis!
 
-I'm a Full Stack Web student at **Undefined Shell Academy** by Guillermo Rodas.
+Soy estuadiante del Bootcamp Full Stack en **Undefined Shell Academy** impartido por Guillermo Rodas.
 
-### I learned these CLI commands today:
+Después de culminar el programa espero porder realizar algunos proyectos propios y _obtener mi primer empleo en la industria tech_.
 
-| Command  | Description                       |
-| -------- | --------------------------------- |
-| date     | Shows the current date and time   |
-| whoami   | Shows the current user            |
-| cd       | Allows navigation between folders |
-| touch    | Create a new file                 |
-| cp       | Allows to copy files              |
+En mi perfil de GitHub podrán ver los avances que vaya teniendo y tal vez puedan darme un poco de **retroalimentación**.
 
+## Bye!
 
-| Alias            | Description                       |
-| ---------------- | --------------------------------- |
-| alias rm="trash" | Avoid permanent deletion of files |
-| alias cl="clear" | Clean the terminal                |
 
 
 <!--
